@@ -1,4 +1,4 @@
-# Hi, I'm Ameer 👋🏻
+# Hi 👋🏻
 I'm a Software Engineer that like to code at night 🦉 and stare at docs all day 👁️👁️
 
 > ![Github](https://img.shields.io/badge/-Github-000?&logo=github) Contributions/Activity  
