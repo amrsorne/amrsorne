@@ -5,7 +5,6 @@ I'm a Senior Software Engineer - a night owl🦉
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:3B82F6,100:8B5CF6&section=footer"/>
 
 ## Find me on the web 🌍
-- 📩 [Email](mailto:ameersorne@gmail.com)
 - 🦊 [GitLab](https://gitlab.com/ameersorne)
 - 🐙 [Github](https://github.com/amrsorne)
 - 🌐 [Portfolio](https://ambik.link/portfolio)
