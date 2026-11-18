@@ -1,70 +1,81 @@
-# Hi, I'm Ameer 
+<div align="center">
 
-I'm a Senior Software Engineer - a night owl🦉
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:3b82f6&height=130&section=header&text=Ameer&fontSize=46&fontColor=ffffff&animation=twinkling" width="100%" alt="" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:3B82F6,100:8B5CF6&section=footer"/>
+### Senior Software Engineer
 
-## Find me on the web 🌍
-- 🦊 [GitLab](https://gitlab.com/ameersorne)
-- 🐙 [Github](https://github.com/amrsorne)
-- 🌐 [Portfolio](https://ambik.link/portfolio)
-- ✍️ [Blog](https://medium.com/@ameersorne)
+TypeScript · Node.js · Cloud platforms · Applied AI / LLM
 
-Open to relocation • Immediate availability <br>
-_(or well, full remote works too!)_
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.ambik.link-2563EB?style=for-the-badge)](https://portfolio.ambik.link/)
+[![Blog](https://img.shields.io/badge/Engineering_blog-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ameersorne)
 
-## Highlighted Projects 👨‍💻✨
+</div>
 
-- **Ambik Project**: AI-powered knowledge retrieval and real-time chat workflows (Node.js, TypeScript, React.js, AWS, Supabase, OpenAI/Claude API) – 500+ users, multi-LLM routing, production RAG experiments.
-- **Digital Card**: Digital identity solution with 2,000+ users (TypeScript, TanStack, Node.js, React, Cloudflare, Stripe).
-- **Football Club Management SaaS** ([myteamfc.com](https://myteamfc.com/)): Fullstack TypeScript/Node.js, Cloudflare, Supabase, Stripe, TanStack – complex onboarding, fixtures, and live AI flows.
-- **Online Apparel E-Commerce**: High-scale WordPress + Stripe store serving 0.5M users/year, $200K+ revenue, optimized checkout and onboarding.
-- **Shopify GraphQL Feed**: Node.js, GraphQL, Stripe, real-time inventory/payment with ~50% latency reductions.
+---
 
-## Technical Skills
+## About
 
-**Backend:**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?&logo=nestjs)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
+I design and ship production web systems end to end: APIs, React frontends, cloud deployments, and observability. I am documentation-driven, comfortable owning delivery from architecture through CI/CD, and increasingly focused on **agentic AI workflows**, **RAG**, and **multi-model LLM integration** in real products.
 
-**Cloud & Infra:**  
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=Cloudflare)
-![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+**Open to** relocation or fully remote · **Available** for new opportunities
 
-**AI/LLM Engineering:**  
-![GenAI](https://img.shields.io/badge/GenAI-Amazon_Bedrock_Claude_OpenAI-blueviolet)
-![RAG](https://img.shields.io/badge/-RAG-000?&logo=OpenAI)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt--Engineering-000?&logo=OpenAI)
+---
 
-**Frontend:**  
-![React.js](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=Tailwind-CSS)
-![Accessibility](https://img.shields.io/badge/-WCAG-000?&logo=accessibility)
+## Selected work
 
-**Databases:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
+Highlights aligned with my live [portfolio](https://portfolio.ambik.link/#projects). Case studies, stacks, and timelines live there.
 
-_See my [portfolio](https://ambik.link/portfolio) for more projects, and feel free to reach out!_
+| Focus | What I built |
+| --- | --- |
+| **Operations & CRM** | Kids apparel business tracker (inventory, sales dashboards, WhatsApp engagement) · Car rental PWA with admin CRM · Insurance customer self-service portal |
+| **Integrations & commerce** | Shopify GraphQL feed service · Full e-commerce site (10k+ users, $50k+ annual transaction volume) with long-term admin and maintenance |
+| **Products** | [Digital invitation platform](https://ambik.link/) (2,000+ users) · [Project Ambik](https://ambik.link/) monorepo hub (TanStack Start on Cloudflare Workers, Supabase, LLM side-project experiments) |
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=amrsorne&theme=monokai)](https://git.io/streak-stats)
+---
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amrsorne&theme=github-compact&hide_border=true"/>
-</p>
+## Technical profile
 
-[To be updated as I deliver more projects and explore new tech.]
+**Backend & APIs:** TypeScript, Node.js, NestJS, Express, Python, FastAPI, Java, Spring Boot, GraphQL, REST
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:3B82F6,100:8B5CF6&section=footer"/>
+**Frontend:** React, Next.js, Vue.js, TanStack, Tailwind CSS, responsive UI, WCAG accessibility, Lighthouse performance
+
+**Cloud & DevOps:** AWS (certified), Azure, Cloudflare Workers, Supabase, Vercel, Docker, Kubernetes, GitHub Actions, GitLab CI, TDD
+
+**Data:** PostgreSQL, MySQL, MongoDB, Oracle, DynamoDB, Prisma
+
+**AI / LLM:** RAG, prompt engineering, OpenAI / Claude / Amazon Bedrock, LLM evaluation, agentic workflows, multi-model routing
+
+**Architecture & security:** Microservices, event-driven systems, clean architecture, OIDC / SSO, OAuth2, JWT, secure API design
+
+**Observability:** Grafana, Prometheus, AWS CloudWatch, distributed tracing, SLA / SLO practices
+
+---
+
+## Writing
+
+I publish engineering notes on migrations, CI/CD, production incidents, AI MVP workflows, and technical leadership on Medium.
+
+[Read articles →](https://medium.com/@ameersorne)
+
+---
+
+## Connect
+
+- **Portfolio:** [portfolio.ambik.link](https://portfolio.ambik.link/)
+- **GitHub:** [github.com/amrsorne](https://github.com/amrsorne)
+- **GitLab:** [gitlab.com/ameersorne](https://gitlab.com/ameersorne)
+- **Blog:** [medium.com/@ameersorne](https://medium.com/@ameersorne)
+
+For recruiter or hiring inquiries, use the contact flow on the portfolio (no direct PII listed here).
+
+---
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=amrsorne&theme=github-dark&hide_border=true)](https://github.com/amrsorne)
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amrsorne&theme=github-compact&hide_border=true" alt="GitHub contribution graph" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:3b82f6&height=90&section=footer" width="100%" alt="" />
+
+</div>
