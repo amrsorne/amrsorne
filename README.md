@@ -27,14 +27,14 @@ Deeper case studies, stacks, and timelines: **[ambik.link/portfolio](https://amb
 
 ## What I built
 
-1. **Kids apparel business tracker** — inventory, stock entry, sales history, real-time dashboards, WhatsApp engagement (React, Vite, Zustand, Supabase, Cloudflare).
-2. **Car rental PWA + admin CRM** — booking experience for customers and ops tooling for fleet management ([Keta Sewa on GitLab](https://gitlab.com/groups/ameersorne/projects/keta-sewa)).
-3. **Insurance customer portal** — streamlined self-service insurance management.
-4. **Shopify GraphQL feed** — Node/Express services processing JSONL via GraphQL for inventory sync.
-5. **Full e-commerce website** — long-running WordPress commerce; 10k+ users, $50k+ annual transaction volume.
-6. **[Digital invitation card](https://ambik.link/)** — 2,000+ users; immersive UX, admin lists, tiered previews ([KadKawin on GitLab](https://gitlab.com/groups/ameersorne/projects/kadkawin)).
-7. **[Project Ambik](https://ambik.link/)** — side-project hub and shared catalog; TanStack Start on Cloudflare Workers, Supabase, LLM experiments.
-8. **[MyTeamFC](https://myteamfc.com/)** — football club management SaaS: onboarding, fixtures, subscriptions, live AI flows ([monorepo](https://gitlab.com/ameersorne/projects/myteamfc)).
+1. **Kids apparel business tracker** - inventory, stock entry, sales history, real-time dashboards, WhatsApp engagement (React, Vite, Zustand, Supabase, Cloudflare).
+2. **Car rental PWA + admin CRM** - booking experience for customers and ops tooling for fleet management ([Keta Sewa on GitLab](https://gitlab.com/groups/ameersorne/projects/keta-sewa)).
+3. **Insurance customer portal** - streamlined self-service insurance management.
+4. **Shopify GraphQL feed** - Node/Express services processing JSONL via GraphQL for inventory sync.
+5. **Full e-commerce website** - long-running WordPress commerce; 10k+ users, $50k+ annual transaction volume.
+6. **[Digital invitation card](https://ambik.link/)** - 2,000+ users; immersive UX, admin lists, tiered previews ([KadKawin on GitLab](https://gitlab.com/groups/ameersorne/projects/kadkawin)).
+7. **[Project Ambik](https://ambik.link/)** - side-project hub and shared catalog; TanStack Start on Cloudflare Workers, Supabase, LLM experiments.
+8. **[MyTeamFC](https://myteamfc.com/)** - football club management SaaS: onboarding, fixtures, subscriptions, live AI flows ([monorepo](https://gitlab.com/ameersorne/projects/myteamfc)).
 
 ---
 
@@ -42,10 +42,10 @@ Deeper case studies, stacks, and timelines: **[ambik.link/portfolio](https://amb
 
 Most active repos live under **[ameersorne/projects](https://gitlab.com/groups/ameersorne/projects)**:
 
-1. **[MyTeamFC](https://myteamfc.com/)** — [gitlab.com/ameersorne/projects/myteamfc](https://gitlab.com/ameersorne/projects/myteamfc)
-2. **[KadKawin](https://gitlab.com/groups/ameersorne/projects/kadkawin)** — [landing page (public)](https://gitlab.com/ameersorne/projects/kadkawin/archived-v1/kadkawin-landing-page) · [frontend](https://gitlab.com/ameersorne/projects/kadkawin/archived-v1/kadkawin-fe) · [backend](https://gitlab.com/ameersorne/projects/kadkawin/archived-v1/kadkawin-be)
-3. **[Keta Sewa](https://gitlab.com/groups/ameersorne/projects/keta-sewa)** (car rental) — [frontend](https://gitlab.com/ameersorne/projects/keta-sewa/keta-sewa-fe) · [backend](https://gitlab.com/ameersorne/projects/keta-sewa/keta-sewa-be)
-4. **[Project Tanya](https://gitlab.com/groups/ameersorne/projects/tanya)** — [app](https://gitlab.com/ameersorne/projects/tanya/tanya)
+1. **[MyTeamFC](https://myteamfc.com/)** - [gitlab.com/ameersorne/projects/myteamfc](https://gitlab.com/ameersorne/projects/myteamfc)
+2. **[KadKawin](https://gitlab.com/groups/ameersorne/projects/kadkawin)** - [landing page (public)](https://gitlab.com/ameersorne/projects/kadkawin/archived-v1/kadkawin-landing-page) · [frontend](https://gitlab.com/ameersorne/projects/kadkawin/archived-v1/kadkawin-fe) · [backend](https://gitlab.com/ameersorne/projects/kadkawin/archived-v1/kadkawin-be)
+3. **[Keta Sewa](https://gitlab.com/groups/ameersorne/projects/keta-sewa)** (car rental) - [frontend](https://gitlab.com/ameersorne/projects/keta-sewa/keta-sewa-fe) · [backend](https://gitlab.com/ameersorne/projects/keta-sewa/keta-sewa-be)
+4. **[Project Tanya](https://gitlab.com/groups/ameersorne/projects/tanya)** - [app](https://gitlab.com/ameersorne/projects/tanya/tanya)
 
 ---
 
@@ -118,7 +118,7 @@ Most active repos live under **[ameersorne/projects](https://gitlab.com/groups/a
 
 Engineering notes on Medium: migrations, CI/CD, production incidents, AI MVP workflows, and leading teams.
 
-[**Read on Medium →**](https://medium.com/@ameersorne)
+[**Read on Medium**](https://medium.com/@ameersorne)
 
 ---
 
