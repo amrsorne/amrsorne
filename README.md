@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:3b82f6&height=130&section=header&text=Ameer&fontSize=46&fontColor=ffffff&animation=twinkling" width="100%" alt="" />
 
-### Semi-vibe coder · full-time prompt engineer 🦉
+### Senior Software Engineer | Aspiring Team Lead & AI Engineer
 
 Night-owl software engineer who reads docs by day and ships by night.
 
