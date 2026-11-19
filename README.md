@@ -23,6 +23,8 @@ I build full-stack web products with TypeScript, React, and cloud-native deploym
 
 Deeper case studies, stacks, and timelines: **[ambik.link/portfolio](https://ambik.link/portfolio)**
 
+> **[GitLab](https://gitlab.com/ameersorne):** Primary repository and structured project · **[GitHub](https://github.com/amrsorne):** General & Activities
+
 ---
 
 ## What I built
